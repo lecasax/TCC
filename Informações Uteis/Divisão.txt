@@ -1,3 +1,4 @@
+/*********************************************************************/
 Leandro:
 
 Transporte Publico
@@ -13,17 +14,27 @@ Satelite
 Olho Vivo
 Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
 
+/*********************************************************************/
+
+/*********************************************************************/
 Nielson:
 GPS
-Sistemas de InformaÁ„o(SI)
-Sistemas de InformaÁ„o GeÛgraficos(SIG)
+Sistemas de Informa√ß√£o(SI)
+Sistemas de Informa√ß√£o Ge√≥graficos(SIG)
 Sistemas Moveis(SM)
-Sistema de LocalizaÁ„o Automatico(AVL)
+Sistema de Localiza√ß√£o Automatico(AVL)
 
 GPRS
 GPS Tracker
 Modem GSM
 
+/*********************************************************************/
+
+Estudar para Realmente Inplementar:
+* Funcionamento de um Servidor/Gateway SMS (Contrat√°do ou Implementando com Modem)
+* Cominuca√ß√£o do Servidor com o Aplicativo Movel
+* Banco de Dados
+* Testar na Pr√°tica o Funcionamento do GPS Tracker
 * Plataforma de Desenvolvimento Movel
 * APIS de Mapas
 * Here Maps, Google Maps
