@@ -1,0 +1,29 @@
+Leandro:
+
+Transporte Publico
+
+Sistema de Transporte Inteligente (STI)
+Banco de Dados
+Servidor
+
+SMS
+Celular Smart Phone
+Satelite
+
+Olho Vivo
+Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
+
+Nielson:
+GPS
+Sistemas de Informação(SI)
+Sistemas de Informação Geógraficos(SIG)
+Sistemas Moveis(SM)
+Sistema de Localização Automatico(AVL)
+
+GPRS
+GPS Tracker
+Modem GSM
+
+* Plataforma de Desenvolvimento Movel
+* APIS de Mapas
+* Here Maps, Google Maps

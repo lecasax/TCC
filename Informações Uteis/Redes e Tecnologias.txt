@@ -1,0 +1,34 @@
+
+
+Teoria Sobre.
+
+Descrição das Tecnológias:
+
+Sistemas de Informação(SI)
+Sistemas de Informação Geógraficos(SIG)
+Sistemas Moveis(SM)
+Sistema de Transporte Inteligente (STI)
+Sistema AVL
+
+GPS
+Banco de Dados
+Servidor
+
+Tecnológias das Redes Utilizadas.
+GPRS
+SMS
+
+
+Equipamentos.
+GPS Tracker
+Celular Smart Phone
+Modem GSM
+
+
+Trabalhos Correlatos:
+
+Olho Vivo
+Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
+
+ 
+(* Descrever equipamentos e tecnológia na topologia estudada)
