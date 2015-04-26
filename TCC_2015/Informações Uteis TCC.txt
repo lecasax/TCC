@@ -1,0 +1,12 @@
+SGDB Geógraficos:
+
+Oracle Spatial(ORACLE)
+
+Postgis(REFRACTIONS RESEARCH)
+
+Ferramentas Geógraficas:
+
+Mapserver,Springweb, Jump, Alov,Terralib, e Google Earth.
+
+
+Ideia de Implentação: Vetorização Automática (3d,2d)

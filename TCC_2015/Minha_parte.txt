@@ -1,0 +1,9 @@
+1. Trnasporte público
+2. STI - sistema de transporte inteligente - 
+3. Banco de Dados 
+4. Servidor - Sair do genérico para o específico
+5. SMS - Short Message Service
+6. Celulares Smart phones.
+7. Trabalhos correlatos: Olho vivo sp, Sistema de monitoramento público tec GPS e GPRS
+8. Redes de satélites
+9. Satélites.
