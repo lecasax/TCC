@@ -1,0 +1,14 @@
+Tecnologias de Comunicação e Transmissão de Dados:
+SMS, Satélite, GPRS.
+
+Tecnologias de Infraestrutura:
+Celulares SmartPhones, GPS Tracker, Modem GSM.
+
+Tecnologias de Computacionais de Informação:
+Banco de Dados, Servidor WEB, Servidor GSM
+
+Tecnologia Computacionais de Desenvolvimento:
+Here Maps, Google Maps, Plataforma de Desenvolvimento Móvel, Linguagens para Servidores e etc.
+
+Trabalhos Correlatos:
+Olho Vivo, Sistema de Monitoramento de transporte público utilizando tecnologia GPS e GPRS.

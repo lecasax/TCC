@@ -3,13 +3,15 @@ Leandro:
 
 Transporte Publico
 
-Sistema de Transporte Inteligente (STI)
+
 Banco de Dados *
 Servidor *
 
-SMS *
-Celular Smart Phone *
+
+
 Satelite *
+
+Trabalhos Correlatos:
 
 Olho Vivo
 Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
@@ -19,23 +21,39 @@ Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
 /*********************************************************************/
 Nielson:
 
+Sistemas:
+
 Sistemas de Informação(SI)
 Sistemas de Informação Geógraficos(SIG)
 Sistemas Moveis(SM)
+Sistema de Transporte Inteligente (STI)
 Sistema de Localização Automatico(AVL)
 
-GPS *
+Tecnologias de Localização
+GNSS *
+SMS *
+
+Tecnológias de Transmissão de Dados
 GPRS *
+
+Hardwares - InfraEstrutura
 GPS Tracker *
 Modem GSM *
+Celular Smart Phone *
 
 /*********************************************************************/
 
 Estudar para Realmente Inplementar:
-* Funcionamento de um Servidor/Gateway SMS (Contratádo ou Implementando com Modem)
-* Cominucação do Servidor com o Aplicativo Movel
-* Banco de Dados
-* Testar na Prática o Funcionamento do GPS Tracker
-* Plataforma de Desenvolvimento Movel
-* APIS de Mapas
+* Funcionamento de um Servidor/Gateway SMS (Contratádo ou Implementando com Modem) - OK !
+* Cominucação do Servidor com o Aplicativo Movel - OK !
+* Banco de Dados - OK !
+* Testar na Prática o Funcionamento do GPS Tracker - OK !
+* Plataforma de Desenvolvimento Movel - Ok !
+* APIS de Mapas - OK !
 * Here Maps, Google Maps
+
+----------------------------------------------------------------------------------------
+
+Componentes do Sistema de Informação
+
+* 
