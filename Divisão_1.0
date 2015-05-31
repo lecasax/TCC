@@ -1,0 +1,50 @@
+Transporte Publico
+
+	Mobilidade Urbana
+	Urbanização
+	Transporte Publico em Dourados
+
+Descrições de Sistemas:
+
+	Sistemas de Informação(SI)
+	Sistemas de Informação Geógraficos(SIG)
+	Sistemas Moveis(SM)
+	Sistema de Transporte Inteligente (STI)
+	Sistema de Localização Automatico(AVL)	
+
+
+Tecnologias para Sistemas de Informação
+
+	Computação em Nuvem 
+		Banco de Dados
+		Servidores HTTP/Socket
+		Servidores GSM
+
+
+	Tecnologias de Localização e Transmissão de Dados
+		Hardwares: Satelite, GPS Tracker, Celular Smart Phone, Modem GSM.
+
+		GNSS: Disponivel nos Hardwares » Satelite, GPS Tracker e Celular Smart Phone       
+		GSM->GPRS: Disponivel nos Hardwares » GPS Tracker e Celular Smart Phone
+		GSM->SMS: Disponivel nos Hardwares » GPS Tracker, Celular Smart Phone, Modem GSM
+	 
+
+	Tecnologias de Desenvolvimento
+		
+		API de Mapas - Google Maps, Here Maps
+		Plataforma de Desenvolmento da Aplicação Móvel - Android Studio e etc 
+		Plataforma de Desenvolvimento para o Servidor HTTP - PyCharm, Google AppEngine
+		Frameworks de Desenvolvimento WEB - Flask
+
+
+Trabalhos Correlatos:
+
+	Olho Vivo
+	Sistema de Monitormento de transporte Publico utilizando tec GPS e GPRS
+
+
+As perguntas
+
+1. O que é?
+2. Pra que Serve ?
+3. Quais são as principais Funcionalidades ?
